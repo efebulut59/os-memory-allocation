@@ -22,4 +22,4 @@ python src/memory_allocator.py
 ```
 
 ## Author
-Efe Bulut
+Efe Bulut B2481.011040
